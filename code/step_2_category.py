@@ -131,7 +131,7 @@ def parallel_tagging(papers, client, max_workers=10):
 
 
 
-def sort_by_X(dimension, kinds, version="v1"):
+def sort_by_X(dimension, kinds, version="v1", csv_prefix = "papers_with_dimensions_", dir_p = DATA_PATH):
     '''
     sort_by_X 的 Docstring
     根据指定维度对论文分类
@@ -140,9 +140,9 @@ def sort_by_X(dimension, kinds, version="v1"):
     return: None，直接在全局 df 上操作并保存分类结果
     '''
     # 创建分类文件夹
-    folder_name = f'sort_by_{dimension.lower()}'
-    dir_path = os.path.join(DATA_PATH, folder_name)
-    df = pd.read_csv(DATA_PATH + f"papers_with_dimensions_{version}.csv")
+    folder_name = f'sort_by_{dimension.lower()}/'
+    dir_path = os.path.join(dir_p, folder_name)
+    df = pd.read_csv(dir_p+ f"{csv_prefix}{version}.csv")
     
     if not os.path.exists(dir_path):
         os.makedirs(dir_path)
