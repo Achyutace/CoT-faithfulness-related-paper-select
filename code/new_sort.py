@@ -33,11 +33,13 @@ def sort_by_X(dimension, kinds, version="v1", csv_prefix = "papers_with_dimensio
             
 
         # 保存文件
-        file_name = f'faithfulness_papers_{str(kind).lower()}_{version}.csv'
+        file_name = f'1faithfulness_papers_{str(kind).lower()}_{version}.csv'
         output_file = os.path.join(dir_path, file_name)
         
         df_kind.to_csv(output_file, index=False, encoding="utf-8-sig")
         print(f"维度 [{dimension}] 下的值 [{kind}]: 已保存 {len(df_kind)} 篇论文至 {output_file}")
 
 if __name__ == "__main__":
-    sort_by_X("has_phenomenon", ["true", "false"], version="v1", csv_prefix = "faithfulness_papers_general_", dir_p=DATA_PATH+"/sort_by_domain/")
+    sort_by_X("has_phenomenon", ["true", "false"], version="v1", csv_prefix = "filtered_faithfulness_papers_", dir_p=DATA_PATH)
+    sort_by_X("has_metrics", ["True", "False"], version="v1", csv_prefix = "filtered_faithfulness_papers_", dir_p=DATA_PATH)
+    sort_by_X("mitigation_methods", ["Training & Fine-tuning", "Interpretability & Internal Mechanisms", "Prompting & In-Context Learning", "Verification & External Tools", "Consistency & Ensembling"], version="v1", csv_prefix = "filtered_faithfulness_papers_", dir_p=DATA_PATH)

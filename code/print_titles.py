@@ -13,9 +13,17 @@ def get_csv_titles(file_path):
     return df['title'].tolist()
 
 def main():
-    file_path = os.path.join(DATA_PATH, 'sort_by_domain/sort_by_has_phenomenon/faithfulness_papers_true_v1.csv')
+    file_path = os.path.join(DATA_PATH, 'filtered_fairness_papers.csv')
     titles = get_csv_titles(file_path)
-    print(titles)
+    print(len(titles))
+    # 按照字母顺序输出
+    titles.sort()
+    for title in titles:
+        print(title)
+    # 按照字母顺序输出到文件
+    with open(os.path.join(DATA_PATH, 'titles.txt'), 'w', encoding='utf-8') as f:
+        for title in titles:
+            f.write(title + '\n')
 
 if __name__ == "__main__":
     main()

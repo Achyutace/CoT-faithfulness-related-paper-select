@@ -1,0 +1,131 @@
+A Causal Lens for Evaluating Faithfulness Metrics
+A Closer Look at Bias and Chain-of-Thought Faithfulness of Large (Vision) Language Models
+A Comprehensive Evaluation of Multilingual Chain-of-Thought Reasoning: Performance, Consistency, and Faithfulness Across Languages
+（AI safety）A Concrete Roadmap towards Safety Cases based on Chain-of-Thought Monitoring
+A Hypothesis-Driven Framework for the Analysis of Self-Rationalising Models
+A Necessary Step toward Faithfulness: Measuring and Improving Consistency in Free-Text Explanations
+Analysing Chain of Thought Dynamics: Active Guidance or Unfaithful Post-hoc Rationalisation?
+（研究具体模型是否更faithful的）Are DeepSeek R1 And Other Reasoning Models More Faithful?
+（形式化问题）Are LLMs Better Formalizers than Solvers on Complex Problems?
+Are self-explanations from Large Language Models faithful?
+ArgRAG: Explainable Retrieval Augmented Generation using Quantitative Bipolar Argumentation
+Argumentative Large Language Models for Explainable and Contestable Claim Verification
+Audit-of-Understanding: Posterior-Constrained Inference for Mathematical Reasoning in Language Models
+AutoRubric-R1V: Rubric-Based Generative Rewards for Faithful Multimodal Reasoning
+Beyond Correctness: Rewarding Faithful Reasoning in Retrieval-Augmented Generation
+Beyond Semantics: The Unreasonable Effectiveness of Reasonless Intermediate Tokens
+Beyond Theorem Proving: Formulation, Framework and Benchmark for Formal Problem-Solving
+Boosting Language Models Reasoning with Chain-of-Knowledge Prompting
+Can Aha Moments Be Fake? Identifying True and Decorative Thinking Steps in Chain-of-Thought
+Can ChatGPT Understand Causal Language in Science Claims?
+Can Language Models Explain Their Own Classification Behavior?
+Can Reasoning Models Obfuscate Reasoning? Stress-Testing Chain-of-Thought Monitorability
+Can We Predict Alignment Before Models Finish Thinking? Towards Monitoring Misaligned Reasoning Models
+Causal-driven Large Language Models with Faithful Reasoning for Knowledge Question Answering
+Chain-of-Thought Reasoning In The Wild Is Not Always Faithful
+Chain-of-Thought Unfaithfulness as Disguised Accuracy
+Chart-RVR: Reinforcement Learning with Verifiable Rewards for Explainable Chart Reasoning
+CoMAT: Chain of Mathematically Annotated Thought Improves Mathematical Reasoning
+Comparing zero-shot self-explanations with human rationales in text classification
+Consistent Multi-Granular Rationale Extraction for Explainable Multi-hop Fact Verification
+Corex: Pushing the Boundaries of Complex Reasoning through Multi-Model Collaboration
+Correlation or Causation: Analyzing the Causal Structures of LLM and LRM Reasoning Process
+Counterfactual Evaluation for Explainable AI
+Diagnostics-Guided Explanation Generation
+Did I Faithfully Say What I Thought? Bridging the Gap Between Neural Activity and Self-Explanations in Large Language Models
+Dissociation of Faithful and Unfaithful Reasoning in LLMs
+Do What You Say: Steering Vision-Language-Action Models via Runtime Reasoning-Action Alignment Verification
+Dynamic Clue Bottlenecks: Towards Interpretable-by-Design Visual Question Answering
+EPT-X: An Expression-Pointer Transformer model that generates eXplanations for numbers
+ERASER: A Benchmark to Evaluate Rationalized NLP Models
+Evaluating Explanation Methods for Vision-and-Language Navigation
+Evaluating Human Alignment and Model Faithfulness of LLM Rationale
+Evaluating Reasoning Faithfulness in Medical Vision-Language Models using Multimodal Perturbations
+Explainability Via Causal Self-Talk
+Explanation-Driven Counterfactual Testing for Faithfulness in Vision-Language Model Explanations
+Exploring Chain-of-Thought Reasoning for Steerable Pluralistic Alignment
+FLARE: Faithful Logic-Aided Reasoning and Exploration
+FRIT: Using Causal Importance to Improve Chain-of-Thought Faithfulness
+FZI-WIM at SemEval-2024 Task 2: Self-Consistent CoT for Complex NLI in Biomedical Domain
+Fact :Teaching MLLMs with Faithful, Concise and Transferable Rationales
+FaiRR: Faithful and Robust Deductive Reasoning over Natural Language
+FaithAct: Faithfulness Planning and Acting in MLLMs
+FaithCoT-Bench: Benchmarking Instance-Level Faithfulness of Chain-of-Thought Reasoning
+FaithLM: Towards Faithful Explanations for Large Language Models
+Faithful Chain-of-Thought Reasoning
+Faithful Knowledge Graph Explanations in Commonsense Question Answering
+Faithfulness vs. Plausibility: On the (Un)Reliability of Explanations from Large Language Models
+Few Shot Rationale Generation using Self-Training with Dual Teachers
+FireScope: Wildfire Risk Prediction with a Chain-of-Thought Oracle
+Formal Reasoning for Intelligent QA Systems: A Case Study in the Educational Domain
+From Faithfulness to Correctness: Generative Reward Models that Think Critically
+Graph of Logic: Enhancing LLM Reasoning with Graphs and Symbolic Logic
+Graph-Guided Textual Explanation Generation Framework
+How Interpretable are Reasoning Explanations from Prompting Large Language Models?
+Human-Aligned Faithfulness in Toxicity Explanations of LLMs
+Improving Chain-of-Thought Reasoning via Quasi-Symbolic Abstractions
+Inducing Faithfulness in Structured Reasoning via Counterfactual Sensitivity
+Interpretable Traces, Unexpected Outcomes: Investigating the Disconnect in Trace-Based Knowledge Distillation
+Investigating CoT Monitorability in Large Reasoning Models
+Investigating Faithfulness in Large Audio Language Models
+Investigating Training and Generalization in Faithful Self-Explanations of Large Language Models
+LExT: Towards Evaluating Trustworthiness of Natural Language Explanations
+Language Models Don't Always Say What They Think: Unfaithful Explanations in Chain-of-Thought Prompting
+Leakage-Adjusted Simulatability: Can Models Generate Non-Trivial Explanations of Their Behavior in Natural Language?
+Learning Planning-based Reasoning by Trajectories Collection and Process Reward Synthesizing
+Leveraging LLMs for Hypothetical Deduction in Logical Inference: A Neuro-Symbolic Approach
+Lightweight Language Models are Prone to Reasoning Errors for Complex Computational Phenotyping Tasks
+Limits of Generalization in RLVR: Two Case Studies in Mathematical Reasoning
+Logic-of-Thought: Injecting Logic into Contexts for Full Reasoning in Large Language Models
+Logical Satisfiability of Counterfactuals for Faithful Explanations in NLI
+MArgE: Meshing Argumentative Evidence from Multiple Large Language Models for Justifiable Claim Verification
+Making Reasoning Matter: Measuring and Improving Faithfulness of Chain-of-Thought Reasoning
+Markovian Transformers for Informative Language Modeling
+Measuring Association Between Labels and Free-Text Rationales
+Measuring Chain of Thought Faithfulness by Unlearning Reasoning Steps
+Measuring Chain-of-Thought Monitorability Through Faithfulness and Verbosity
+Measuring Faithfulness in Chain-of-Thought Reasoning
+Measuring the Faithfulness of Thinking Drafts in Large Reasoning Models
+MedOmni-45°: A Safety-Performance Benchmark for Reasoning-Oriented LLMs in Medicine
+Natural Language Deduction through Search over Statement Compositions
+Obtaining Faithful Interpretations from Compositional Neural Networks
+On Faithfulness and Coherence of Language Explanations for Recommendation Systems
+On Measuring Faithfulness or Self-consistency of Natural Language Explanations
+On the Faithfulness of Visual Thinking: Measurement and Enhancement
+On the Hardness of Faithful Chain-of-Thought Reasoning in Large Language Models
+On the Impact of Fine-Tuning on Chain-of-Thought Reasoning
+Preventing Language Models From Hiding Their Reasoning
+ProoFVer: Natural Logic Theorem Proving for Fact Verification
+QA-NatVer: Question Answering for Natural Logic-based Fact Verification
+Quantifying Uncertainty in Natural Language Explanations of Large Language Models
+Question Decomposition Improves the Faithfulness of Model-Generated Reasoning
+Rationale-Enhanced Decoding for Multi-modal Chain-of-Thought
+Rationale-Guided Few-Shot Classification to Detect Abusive Language
+Read it Twice: Towards Faithfully Interpretable Fact Verification by Revisiting Evidence
+Reasoning Models Don't Always Say What They Think
+Reasoning Models Sometimes Output Illegible Chains of Thought
+Reasoning-Grounded Natural Language Explanations for Language Models
+Self-Critique and Refinement for Faithful Natural Language Explanations
+Semi-structured LLM Reasoners Can Be Rigorously Audited
+State over Tokens: Characterizing the Role of Reasoning Tokens
+Test-Time Reasoners Are Strategic Multiple-Choice Test-Takers
+Text Modular Networks: Learning to Decompose Tasks in the Language of Existing Models
+The Kinetics of Reasoning: How Chain-of-Thought Shapes Learning in Transformers?
+The Probabilities Also Matter: A More Faithful Metric for Faithfulness of Free-Text Explanations in Large Language Models
+The Silent Judge: Unacknowledged Shortcut Bias in LLM-as-a-Judge
+Thought Branches: Interpreting LLM Reasoning Requires Resampling
+Towards Better Chain-of-Thought: A Reflection on Effectiveness and Faithfulness
+Towards Faithful Natural Language Explanations: A Study Using Activation Patching in Large Language Models
+Towards Transparent Reasoning: What Drives Faithfulness in Large Language Models?
+Training Language Models to Explain Their Own Computations
+Training and Evaluation of Guideline-Based Medical Reasoning in LLMs
+Truthful or Fabricated? Using Causal Attribution to Mitigate Reward Hacking in Explanations
+Typed Chain-of-Thought: A Curry-Howard Framework for Verifying LLM Reasoning
+Understanding the Uncertainty of LLM Explanations: A Perspective Based on Reasoning Topology
+Unspoken Hints: Accuracy Without Acknowledgement in LLM Reasoning
+VisFIS: Visual Feature Importance Supervision with Right-for-the-Right-Reason Objectives
+Walk the Talk? Measuring the Faithfulness of Large Language Model Explanations
+What Really Counts? Examining Step and Token Level Attribution in Multilingual CoT Reasoning
+Why Would You Suggest That? Human Trust in Language Model Responses
+Why do you think that? Exploring faithful sentence–level rationales without supervision
+X-Node: Self-Explanation is All We Need
