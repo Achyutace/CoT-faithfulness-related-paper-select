@@ -1,3 +1,7 @@
+'''
+check_missing_downloads 的 Docstring
+检查哪些论文的 PDF 缺失，并尝试从 Semantic Scholar 和 arXiv 补充下载
+'''
 import os
 import re
 import csv

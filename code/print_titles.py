@@ -13,7 +13,7 @@ def get_csv_titles(file_path):
     return df['title'].tolist()
 
 def main():
-    file_path = os.path.join(DATA_PATH, 'filtered_fairness_papers.csv')
+    file_path = os.path.join(DATA_PATH, 'filtered_faithfulness_papers_v2.csv')
     titles = get_csv_titles(file_path)
     print(len(titles))
     # 按照字母顺序输出
